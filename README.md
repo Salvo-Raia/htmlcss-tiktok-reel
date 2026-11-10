@@ -1,22 +1,50 @@
-# Esercizio: TikTok Reel
+![Static Badge](https://img.shields.io/badge/Boolean_Tech_Academy-001632?style=for-the-badge)
 
-Nome repo: `htmlcss-tiktok-reel`
+# 🎓 Exercise 06/50 - TikTok Reel
 
-## Consegna
+Recreating a TikTok Reel interface by arranging its header, footer and sidebar elements using CSS Flexbox.
 
-Proviamo a replicare la schermata di un reel di TikTok, inserendo i diversi elementi a schermo nell’header, nel footer e nella sidebar, grazie all’aiuto delle proprietà flexbox che avete visto oggi. 
+## 📌 Project Overview
 
-**Note**
+| Property | Details |
+|:--|:--|
+| Repository | htmlcss-tiktok-reel |
+| Category | Boolean Tech Academy |
+| Type | Exercise |
+| Exercise | 06/50 |
 
-* Il macro layout è già pronto, per cui dovrete concentrarvi “solo” sulla disposizione degli elementi delle 3 aree citate sopra.
-* I bordi e le altezze dei box sono evidenziati tramite la classe `.debug` che andrà poi rimossa.
-* Le icone utilizzate vengono da Bootstrap Icons
-* Il font utilizzato è TikTok Sans, disponibile su Google Fonts.
+## 🎯 Assignment
 
-**Bonus**
+Recreate the interface of a TikTok Reel by arranging the different on-screen elements in the header, footer and sidebar, using the Flexbox properties learned in class.
 
-* Inserire il pallino di notifica in alto a destra di “Seguiti”, nell’Header
-* Inserire l’effetto di sottolineatura sotto “Per te”, nell’header
-* Inserire il numerino con i messaggi da leggere, sul fumetto della “Posta in arrivo”, nel footer
-* Inserire il cerchietto con il “+”, sotto all’icona del profilo, nella sidebar.
-* Ottenere l’effetto che si vede nello screenshot sul bottone centrale nel footer
+### 🔎 Notes
+
+- The main layout is already provided, so you only need to focus on arranging the elements within the three areas mentioned above.
+- The borders and heights of the boxes are highlighted using the `.debug` class, which must be removed once the layout is complete.
+- The icons are provided by **Bootstrap Icons**.
+- The font used is **TikTok Sans**, available on Google Fonts.
+
+### ⭐ Bonus
+
+Try to implement the following additional details:
+
+- Add a notification dot in the top-right corner of the "Following" tab in the header.
+- Add an underline effect below the "For You" tab in the header.
+- Add an unread message counter to the inbox icon in the footer.
+- Add a small circle with a "+" sign below the profile icon in the sidebar.
+- Recreate the visual effect shown in the reference screenshot on the central button in the footer.
+
+## 🛠️ Technologies
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+## 💡 What I Learned
+
+- Arranging interface elements using CSS Flexbox.
+- Organizing different sections of a user interface.
+- Managing alignment, spacing and positioning within a layout.
+- Integrating external fonts and icon libraries.
+
+## ©️ Credits
+
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course - Class 152 - Year 2025-2026
