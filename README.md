@@ -1,10 +1,10 @@
 ![Static Badge](https://img.shields.io/badge/Boolean_Tech_Academy-1565C0?style=for-the-badge)
 
-# 🎓 Exercise 06/50: TikTok Reel
+# Exercise 06/50: TikTok Reel
 
 Recreating a TikTok Reel interface by arranging its header, footer and sidebar elements using CSS Flexbox.
 
-## 📌 Project Overview
+## Project Overview
 
 | Property | Details |
 |:--|:--|
@@ -13,18 +13,18 @@ Recreating a TikTok Reel interface by arranging its header, footer and sidebar e
 | Type | Exercise |
 | Exercise | 06/50 |
 
-## 🎯 Assignment
+## Assignment
 
 Recreate the interface of a TikTok Reel by arranging the different on-screen elements in the header, footer and sidebar, using the Flexbox properties learned in class.
 
-### 🔎 Notes
+**Notes**
 
 - The main layout is already provided, so you only need to focus on arranging the elements within the three areas mentioned above.
 - The borders and heights of the boxes are highlighted using the `.debug` class, which must be removed once the layout is complete.
 - The icons are provided by **Bootstrap Icons**.
 - The font used is **TikTok Sans**, available on Google Fonts.
 
-### ⭐ Bonus
+**Bonus**
 
 Try to implement the following additional details:
 
@@ -34,17 +34,17 @@ Try to implement the following additional details:
 - Add a small circle with a "+" sign below the profile icon in the sidebar.
 - Recreate the visual effect shown in the reference screenshot on the central button in the footer.
 
-## 🛠️ Technologies
+## Technologies
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-## 💡 What I Learned
+## What I learned
 
 - Arranging interface elements using CSS Flexbox.
 - Organizing different sections of a user interface.
 - Managing alignment, spacing and positioning within a layout.
 - Integrating external fonts and icon libraries.
 
-## ©️ Credits
+## Credits
 
-Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025–2026).
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025-2026).
