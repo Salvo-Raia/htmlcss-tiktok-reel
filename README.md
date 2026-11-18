@@ -4,20 +4,17 @@
 
 Recreating a TikTok Reel interface by arranging its header, footer and sidebar elements using CSS Flexbox.
 
-## Project Overview
+## Project overview
 
-| Property | Details |
-|:--|:--|
-| Repository | htmlcss-tiktok-reel |
-| Category | Boolean Tech Academy |
-| Type | Exercise |
-| Exercise | 06/50 |
+| Repository | Project | Category | Main Focus | Exercise |
+|:--|:--|:--|:--|:--|
+| htmlcss-tiktok-reel | TikTok Reel | Exercise | CSS Flexbox | 06/50 |
 
 ## Assignment
 
 Recreate the interface of a TikTok Reel by arranging the different on-screen elements in the header, footer and sidebar, using the Flexbox properties learned in class.
 
-#### Bonus
+#### Bonus challenge
 
 Try to implement the following additional details.
 
