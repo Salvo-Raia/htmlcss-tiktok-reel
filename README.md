@@ -17,22 +17,22 @@ Recreating a TikTok Reel interface by arranging its header, footer and sidebar e
 
 Recreate the interface of a TikTok Reel by arranging the different on-screen elements in the header, footer and sidebar, using the Flexbox properties learned in class.
 
-**Notes**
+#### Bonus
 
-- The main layout is already provided, so you only need to focus on arranging the elements within the three areas mentioned above.
-- The borders and heights of the boxes are highlighted using the `.debug` class, which must be removed once the layout is complete.
-- The icons are provided by **Bootstrap Icons**.
-- The font used is **TikTok Sans**, available on Google Fonts.
-
-**Bonus**
-
-Try to implement the following additional details:
+Try to implement the following additional details.
 
 - Add a notification dot in the top-right corner of the "Following" tab in the header.
 - Add an underline effect below the "For You" tab in the header.
 - Add an unread message counter to the inbox icon in the footer.
 - Add a small circle with a "+" sign below the profile icon in the sidebar.
 - Recreate the visual effect shown in the reference screenshot on the central button in the footer.
+
+##### Notes
+
+- The main layout is already provided, so you only need to focus on arranging the elements within the three areas mentioned above.
+- The borders and heights of the boxes are highlighted using the `.debug` class, which must be removed once the layout is complete.
+- The icons are provided by **Bootstrap Icons**.
+- The font used is **TikTok Sans**, available on Google Fonts.
 
 ## Technologies
 
