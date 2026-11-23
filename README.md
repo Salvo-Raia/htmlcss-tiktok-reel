@@ -8,7 +8,7 @@ Recreating a TikTok Reel interface by using CSS Flexbox to arrange its header, f
 
 | Repository | Project | Category | Main Focus | Exercise |
 |:--|:--|:--|:--|:--|
-| htmlcss-tiktok-reel | TikTok Reel | Exercise | CSS & Flexbox | 06/50 |
+| htmlcss-tiktok-reel | TikTok Reel | Exercise | CSS, Flexbox | 06/50 |
 
 ## Assignment
 
