@@ -2,7 +2,7 @@
 
 # Exercise 06/50: TikTok Reel
 
-Recreating a TikTok Reel interface by arranging its header, footer and sidebar elements using CSS Flexbox.
+Recreating a TikTok Reel interface by using CSS Flexbox to arrange its header, footer and sidebar elements.
 
 ## Project overview
 
